@@ -1,4 +1,4 @@
-# bugcollection
+# Bugcollection
 Collecting buggy commit data for different projects (defects4j)
 
 #How to install
@@ -9,3 +9,7 @@ Run project
 Copywrite information
 ###Contact
 For any query contact masud99r@gmail.com
+```
+System.out.println("Hello bugs !!");
+```
+Sample code
