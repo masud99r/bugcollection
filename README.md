@@ -5,3 +5,5 @@ Collecting buggy commit data for different projects (defects4j)
 Clone github project
 Create data repository for preprocessing
 Run project
+##License
+Copywrite information
