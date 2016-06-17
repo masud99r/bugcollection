@@ -7,4 +7,5 @@ Create data repository for preprocessing
 Run project
 ##License
 Copywrite information
-### For any inforamtion contact masud99r@gmail.com
+###Contact
+For any query contact masud99r@gmail.com
